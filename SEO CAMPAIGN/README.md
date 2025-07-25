@@ -4,6 +4,8 @@ This Power BI dashboard delivers actionable insights into the performance of an 
 
 👉 [**View the live dashboard here**](https://app.powerbi.com/view?r=eyJrIjoiOTJhNmMzZjYtMmJhMS00MGYyLWIxMGMtN2ZlZTA1MjkyMjAyIiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ&pageName=ReportSection)
 
+[(https://github.com/ntmh12/da-projects/blob/main/SEO%20CAMPAIGN/preview.png)](https://app.powerbi.com/view?r=eyJrIjoiNTBmNGFhYzMtZGMxYS00Y2JlLThhMzQtMmZhNzJmOTQ0MDU2IiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D&pageName=ReportSection)
+
 ---
 
 ## 📂 Key Features
