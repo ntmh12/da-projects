@@ -1,4 +1,5 @@
-Welcome to my personal analytics portfolio!
-This repository showcases a curated collection of data analysis and visualization projects using Power BI, with a strong focus on storytelling, business context, and visual clarity.
+**Welcome to my Analytics Portfolio!**
 
-Each project in this repo is presented as a standalone dashboard, designed to explore real-world challenges and translate raw data into actionable insights.
+This repository is a curated collection of my data analysis and visualization projects, each crafted with an emphasis on data cleaning, data wrangling, storytelling, business relevance, and visual clarity.
+
+Every project is presented as a standalone case study, tackling real-world challenges and transforming raw data into actionable insights.
