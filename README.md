@@ -4,4 +4,4 @@ This repository is a curated collection of data analysis and visualization proje
 
 Each project is presented as a standalone case study, addressing real-world challenges and transforming raw data into actionable insights.
 
-Let's explore! 💥
+💥Let's explore!
