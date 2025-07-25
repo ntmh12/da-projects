@@ -10,8 +10,6 @@ This Power BI dashboard delivers actionable insights into the performance of an 
 
 ## 📂 Key Features
 
-This interactive Power BI dashboard provides a comprehensive overview of user behavior and website performance for an SEO campaign. Key capabilities include:
-
 - Total views, users, and conversion rate over time
 - Traffic by day, hour, and day of week
 - User segmentation by type (e.g. student, staff)
