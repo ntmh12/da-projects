@@ -32,7 +32,7 @@ This project applies text mining and sentiment analysis techniques to a dataset 
 
 ## 📁 Project Files  
 - 📄 [Sentiment Analysis](https://github.com/ntmh12/da-projects/blob/main/Sentiment%20Analysis/Sentiment%20code.ipynb): Notebook for sentiment scoring and analysis  
-- 📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODExNjBkOTItYjg2YS00ZTFkLThmNDctNmE5MWU2YjU3MDZkIiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D&pageName=761abf5f36a5454ba107): Interactive Power BI report  
+- 📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODExNjBkOTItYjg2YS00ZTFkLThmNDctNmE5MWU2YjU3MDZkIiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D&pageName=761abf5f36a5454ba107): Interactive Power BI dashboard  
 - 📃 [Sentiment Report](https://github.com/ntmh12/da-projects/blob/main/Sentiment%20Analysis/Sentiment%20Analysis%20report.pdf): Final report summarizing findings
 
 ---
