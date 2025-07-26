@@ -37,4 +37,4 @@ This project applies text mining and sentiment analysis techniques to a dataset 
 
 ---
 
-> Thank you for visiting!
+**The end!**
