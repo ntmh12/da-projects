@@ -9,12 +9,6 @@ A marketing analytics dashboard built with **Google Analytics 4** data to help a
   </a>
 </p>
 
----
-
-## 🔍 Overview
-
-This dashboard provides a clear breakdown of user acquisition channels, behavior metrics, and conversion performance using data from **GA4 + Looker Studio**.
-
 ### 🎯 Key Metrics Tracked
 - Total Users & Sessions
 - Engagement Rate & Bounce Rate
