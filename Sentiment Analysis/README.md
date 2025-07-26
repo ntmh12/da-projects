@@ -8,7 +8,7 @@ This project applies text mining and sentiment analysis techniques to a dataset 
 
 ---
 
-## 📌 Key Features
+## 💡 Key Features
 
 - Total number of comments, users, and videos over time
 - Average number of comments per user and per video
