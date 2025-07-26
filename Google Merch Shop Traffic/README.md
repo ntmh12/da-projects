@@ -4,7 +4,9 @@ A marketing analytics dashboard built with **Google Analytics 4** data to help a
 
 🔗 **[View the interactive dashboard on Looker Studio →](https://lookerstudio.google.com/reporting/d1e4b149-c542-4208-9a5a-ce2b8f9d1b99)**
 <p align="center">
-  <img src="https://github.com/ntmh12/da-projects/blob/main/Google%20Merch%20Shop%20Traffic/GA4_Traffic_Source_Dashboard%20-%20Preview.png" alt="GA4 Dashboard Preview" width="100%" />
+  <a href="https://lookerstudio.google.com/reporting/d1e4b149-c542-4208-9a5a-ce2b8f9d1b99" target="_blank">
+    <img src="https://github.com/ntmh12/da-projects/blob/main/Google%20Merch%20Shop%20Traffic/GA4_Traffic_Source_Dashboard%20-%20Preview.png" alt="GA4 Dashboard Preview" width="100%" />
+  </a>
 </p>
 
 ---
