@@ -54,4 +54,4 @@ This approach ensures scalability, flexibility, and real-time updating when work
 
 ---
 
-> Thank you for visiting!
+**The end!**
