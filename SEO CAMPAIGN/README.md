@@ -25,14 +25,13 @@ This Power BI dashboard delivers actionable insights into the performance of an 
 
 The dataset is sourced from **web advertising performance data**, exported from internal systems. Data preparation involved the following steps:
 
-- **Cleaned raw data in Excel**:
-  - Removed redundant columns
-  - Fixed invalid or inconsistent date formats
+- **Cleaned raw data in Python**:
+  - Clean data and format date
+  - Extracted traffic sources from `MA Referrer` field
+  - Categorized users as `Normal`, `Staff`, or `Student`
 - **DAX Measures**:
   - Calculated metrics such as `Conversion Rate`, `Bounce Rate`
 - **Power Query Transformations**:
-  - Extracted traffic sources from `MA Referrer` field
-  - Categorized users as `Normal`, `Staff`, or `Student`
   - Parsed and classified school information from email domains
 
 ---
@@ -40,8 +39,8 @@ The dataset is sourced from **web advertising performance data**, exported from 
 ## 🛠️ Tools & Technologies
 
 - **Power BI**: Data visualization, DAX calculations, dashboard UI
-- **Excel**: Initial cleanup and column pruning
-- **Power Query**: Data transformation, column extraction, type detection
+- **Python**: Initial cleanup and column pruning
+- **Power Query**: Column extraction
 - **DAX**: Business metrics like conversion rate, bounce rate
 - **Visual Design**: Brand-aligned storytelling and responsive layout
 
