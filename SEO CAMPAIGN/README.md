@@ -2,12 +2,6 @@
 
 This Power BI dashboard delivers actionable insights into the performance of an SEO campaign based on website traffic data. It enables users to monitor visitor behavior, evaluate traffic sources, and track conversions over time.
 
-👉 [**View the live dashboard here**](https://app.powerbi.com/view?r=eyJrIjoiOTJhNmMzZjYtMmJhMS00MGYyLWIxMGMtN2ZlZTA1MjkyMjAyIiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ&pageName=ReportSection)
-
-[![SEO Dashboard Preview](https://github.com/ntmh12/da-projects/raw/main/SEO%20CAMPAIGN/preview.png)](https://app.powerbi.com/view?r=eyJrIjoiNTBmNGFhYzMtZGMxYS00Y2JlLThhMzQtMmZhNzJmOTQ0MDU2IiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D&pageName=ReportSection)
-
----
-
 ## 📂 Key Features
 
 - Total views, users, and conversion rate over time
@@ -42,7 +36,6 @@ The dataset is sourced from **web advertising performance data**, exported from 
 - **Python**: Initial cleanup and column pruning
 - **Power Query**: Column extraction
 - **DAX**: Business metrics like conversion rate, bounce rate
-- **Visual Design**: Brand-aligned storytelling and responsive layout
 
 ---
 
