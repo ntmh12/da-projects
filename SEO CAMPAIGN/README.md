@@ -1,4 +1,4 @@
-# 🔥 SEO Campaign Dashboard
+# 🔥 SEO Campaign Project
 
 This Power BI dashboard delivers actionable insights into the performance of an SEO campaign based on website traffic data. It enables users to monitor visitor behavior, evaluate traffic sources, and track conversions over time.
 
